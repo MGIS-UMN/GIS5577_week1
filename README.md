@@ -1,4 +1,4 @@
-# GIS5577 Week 1, 2022
+# GIS5577 Week 1, 2023
 
 This is your repository for week 1. You will find this same material on canvas. We will use github repositories as a way for keeping the information up to date for the entire class.
 
