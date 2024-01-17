@@ -1,6 +1,6 @@
-# GIS5577 Week 1, 2023
+# GIS5577 Week 1, 2024
 
-This is your repository for week 1. You will find this same material on canvas. We will use github repositories as a way for keeping the information up to date for the entire class.
+This is your repository for week 1. You will find this same material on canvas. We will use GitHub repositories as a way for keeping the information up to date for the entire class.
 
 ### Purpose
 1. Go over class syllabus and class expectations
@@ -8,8 +8,8 @@ This is your repository for week 1. You will find this same material on canvas. 
 1. Introduce Relational Databases and SQL
 
 ### Class Exercise Instructions
-I have added a sample dataset for you to explore on the server. The 2000 Census tracts for the state of Minnesota.
-To load the dataset in your own database to the following steps.
+I have added a sample dataset on the server for you to explore. The 2000 Census tracts for the state of Minnesota.
+To load the dataset in your own database do the following steps.
 
 1. Connect to your database
 
