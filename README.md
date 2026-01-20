@@ -1,4 +1,4 @@
-# GIS5577 Week 1, 2024
+# GIS5577 Week 1, 2026
 
 This is your repository for week 1. You will find this same material on canvas. We will use GitHub repositories as a way for keeping the information up to date for the entire class.
 
@@ -14,7 +14,7 @@ To load the dataset in your own database do the following steps.
 1. Connect to your database
 
 ```
-host address: 1XX.1XX.1XX.XXX, port: 5432
+host address: named.address.host, port: 5432
 ```
 
 2. Create the mn_2000_census tracts table, by executing the create table statement ```mn_2000_census_tracts_tables.sql``` in the pgAdmin. The simplest way, is to can copy and paste this into a query. The text file ```mn_2000_census_tracts_tables.sql``` can be opened in a text editor (notepad++) to see the contents.
